@@ -1,12 +1,12 @@
-# Java _Beginner_ Course – thenewboston
+# Java *Beginner* Course – thenewboston
 
-This repository has all my code and progress through the [Java Beginner Course by thenewboston](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28).
+This repository contains all my code and progress through the [Java Beginner Course by thenewboston](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28).
 
-Throughout the corse, I aim to modify the programs to be used in real life
-eg. using the if statement tutorials to make a test score (as percentage calculator)
+Throughout the course, I aim to **modify the programs for real-life applications** 
+eg. adapting the "if statement" tutorial into a test score percentage calculator.
 
 ## 📚 Course Overview
-- **Instructor**: Bucky Roberts (thenewboston)
+- **Instructor**: Bucky (thenewboston)
 - **Platform**: YouTube
 - **Total Videos**: 87
 - **Topics Covered**:
@@ -18,4 +18,4 @@ eg. using the if statement tutorials to make a test score (as percentage calcula
   - File I/O
   - Exception Handling
   - Polymorphism & Inheritance
-  - etc.
+  - ...and more
