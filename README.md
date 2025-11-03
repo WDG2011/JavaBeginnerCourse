@@ -1,6 +1,10 @@
-# Java *Beginner* Course – thenewboston
+# Learning Java - This respitory is for all my progress on learning Java
 
-This repository contains all my code and progress through the [Java Beginner Course by thenewboston](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28).
+I'll go through:
+The bucky Java *Beginner* Course – thenewboston
+and publishing my own programs/projects that I do
+
+Link to Course: [Java Beginner Course by thenewboston](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28).
 
 Throughout the course, I aim to **modify the programs for real-life applications** 
 eg. adapting the "if statement" tutorial into a test score percentage calculator.
